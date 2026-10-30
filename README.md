@@ -6,7 +6,7 @@ Telegram Bot token need to change before use
 ## 1. Termux Setup
 F-Droid theke `Termux` + `Termux:Styling` install koro
 
-Termux open kore ei command gula run koro:
+Open Termux Terminal & use this tools:
 ```bash
 pkg update -y && pkg upgrade -y
 termux-setup-storage
