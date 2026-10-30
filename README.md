@@ -1,6 +1,7 @@
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
-# Ddos / Telegram Bot 
+## QuantumBot | Telegram Bot for Termux
+A clean, async Telegram Bot built in Python. Runs perfectly on Android via Termux.
 Termux e run korar jonno full setup guide
 # (Important)
 Telegram Bot token need to change before use
