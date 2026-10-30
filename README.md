@@ -1,3 +1,5 @@
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 # Ddos / Telegram Bot 
 Termux e run korar jonno full setup guide
 # (Important)
