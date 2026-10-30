@@ -25,3 +25,7 @@ python main.py
 ### ⚠️ Disclaimer
 This bot is for educational and personal use only. 
 Do not use for spamming or illegal activities.
+### 🤖 Live Demo
+You can test the bot here: [@tashfiq_debug_bot](https://t.me/onbir_ddos_bot)
+
+Just type `/start` to begin.
