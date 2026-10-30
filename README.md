@@ -1,1 +1,20 @@
-# Ddos
+# Ddos / Telegram Bot 
+Termux e run korar jonno full setup guide
+# (Important)
+Telegram Bot token need to change before use
+
+## 1. Termux Setup
+F-Droid theke `Termux` + `Termux:Styling` install koro
+
+Termux open kore ei command gula run koro:
+```bash
+pkg update -y && pkg upgrade -y
+termux-setup-storage
+pkg install git python python-pip clang zsh -y
+pkg install nano curl wget -y
+git clone https://github.com/tashfiqonbir/Ddos.git
+cd Ddos
+pip3 install -r requirements.txt
+pip3 install requests python-telegram-bot aiohttp
+nano main.py
+python main.py
