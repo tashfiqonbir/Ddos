@@ -18,3 +18,7 @@ pip3 install -r requirements.txt
 pip3 install requests python-telegram-bot aiohttp
 nano main.py
 python main.py
+```
+### ⚠️ Disclaimer
+This bot is for educational and personal use only. 
+Do not use for spamming or illegal activities.
